@@ -67,9 +67,9 @@ The **Expense Tracking App** is a simple and intuitive application designed to h
 
 <br>
 
-## Contributors
+## Contributor(s)
 
-Zhan Hung Fu (Ian)
+- Zhan Hung Fu
 
 <br> 
 
