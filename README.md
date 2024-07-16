@@ -45,11 +45,11 @@ The **Expense Tracking App** is a simple and intuitive application designed to h
 
 1. Clone the repository:
  
- - `git clone https://github.com/fuzhanhung218/expense-tracking-app.git`
+ - `git clone https://github.com/fuzhanhung218/Expense-Tracking-App.git`
 
 2. Navigate to the project directory:
 
- - `cd expense-tracking-app`
+ - `cd Expense-Tracking-App`
 
 3. Open the project in Xcode:
 
