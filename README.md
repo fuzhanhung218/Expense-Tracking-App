@@ -23,7 +23,7 @@ The **Expense Tracking App** is a simple and intuitive application designed to h
 - Savings Page:
   - Displays a bar chart showing savings across different time periods: daily, weekly, monthly, and all time.
   - Users can convert their savings into different currencies.
-  - 
+    
 - Expenses Page:
   - Displays a list of all user expenses.
   - Users can view basic details of individual expenses.
